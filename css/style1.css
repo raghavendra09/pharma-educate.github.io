@@ -1,0 +1,206 @@
+
+*
+{
+	padding:0px;
+	margin:0px;
+}
+*{
+box-sizing:border-box;}
+
+.bg1
+{
+background:#F2F2F2;
+height:40px;
+}
+/*logo css*/
+.one
+{
+	position:relative;
+	top:7px;
+}
+.icons{
+	position:relative;
+	top:7px;
+}
+.icons i
+{
+	font-size:25px;
+	padding-left:20px;
+	color:#50A846;
+}
+.logo
+{
+	position:relative;
+	top:10px;
+}
+.flag
+{
+	position:relative;
+	top:40px;
+	left:10px;
+}
+/*logo css ended*/
+.nav1
+{
+position:relative;
+top:10px;
+width:100%;
+background:linear-gradient(#90A330 80%,#fff);
+}
+.nav1 a
+{
+	color:#fff;
+}
+.dropdown-menu
+{
+	visibility:hidden;
+}
+.dropdown:hover .dropdown-menu
+{
+	visibility:visible;
+}
+
+
+.carousel1
+{
+	width:100%;
+	position:relative;
+	top:7px;
+}
+.pharma
+{
+	background:#F5601F;
+	text-align:center;
+	font-family: 'Roboto', sans-serif;
+color:#fff;
+}
+.gpat
+{
+	
+	background-color:#1CB8CF;
+	color:#fff;
+}
+.gpat2
+{
+	position:relative;
+	left:10px;
+	background-color:#FDC608;
+	color:#fff;
+}
+.gpat3
+{
+	position:relative;
+	left:20px;
+	background-color:#98C222;
+	color:#fff;
+}
+.gpat4
+{
+	position:relative;
+	left:30px;
+	background-color:#3374B5;
+	color:#fff;
+}
+.gpat h1
+{
+	position:relative;
+	bottom:12px;
+}
+.desk
+{
+	font-size:60px;
+	text-align:center;
+}
+ul
+{
+	list-style-type:none;
+}
+.lg
+{ 
+    position:relative;
+	top:30px;
+	background:#0FAD00;
+}
+.lg1
+{
+	 position:relative;
+	top:30px;
+	left:10px;
+	text-align:center;
+	color:#fff;
+	background:#F8682C;
+	height:282px;
+}
+.lg2
+{
+	 position:relative;
+	top:30px;
+	left:20px;
+	text-align:center;
+	color:#fff;
+	background:#C5007C;
+	height:282px;
+}
+.lg3
+{
+	 position:relative;
+	top:30px;
+	left:30px;
+	text-align:center;
+	color:#fff;
+	background:#6300A5;
+	height:282px;
+}
+.news
+{
+	position:relative;
+    top:60px;
+	background:#F3FFFF;
+}
+.new li
+{  
+
+	list-style-type:square;
+}
+#ticker{
+	height: 240px;
+	overflow:scroll;
+
+}
+#ticker li {
+	height: 60px;
+	
+}
+#ticker li a{
+	color: #0079b6;
+}
+
+.lifa
+{
+	position:relative;
+	top:50px;
+	color:#fff;
+	font-size:70px;
+
+}
+.fanum
+{
+	position:relative;
+	top:-30px;
+	font-size:30px;
+}
+.edutech h2
+{
+	color:#00237D;
+}
+footer
+{
+	
+	
+	color:#fff;
+	
+
+}
+.bac{
+	background-color:#444343;
+}
